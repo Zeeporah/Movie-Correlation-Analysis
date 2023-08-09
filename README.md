@@ -42,14 +42,4 @@ Based on the analysis, we discovered significant positive correlations between v
 
 The preprocessing steps, including handling missing data, aligning release years, and categorizing non-numeric values, ensured the dataset's cleanliness and consistency, enabling a more reliable analysis.
 
-### Future Work
-This project represents only a preliminary analysis of the movie dataset. Further investigation can be carried out to explore other potential correlations and build predictive models to forecast a movie's success based on its features. Additionally, we can use machine learning algorithms to gain deeper insights into the factors influencing a movie's revenue and popularity.
 
-Feel free to contribute to this project, raise issues, or suggest improvements. Let's keep enhancing our understanding of movie industry trends through data-driven insights!
-
-
-
-#### Acknowledgments
-Special thanks to all contributors who helped collect and clean the movie dataset, and to the open-source community for their valuable libraries and tools.
-
-If you have any questions or suggestions, feel free to reach out or open an issue. Happy coding!
